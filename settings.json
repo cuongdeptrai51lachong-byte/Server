@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Server",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "MinecraftD3B6D7.aternos.me",
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 2,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Gay!",
         "I like to play Minecraft!"
       ]
     },
